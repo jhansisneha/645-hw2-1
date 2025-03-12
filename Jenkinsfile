@@ -1,6 +1,8 @@
-// Group: Alpha1
- // File: Jenkinsfile
- // Description: To define CI/CD pipeline for Docker Image Buliding and pushing, deploying to Kubernetes cluster
+// Group: Straw Hats
+//Group Members: 
+//•	Jhansi Sneha Kamsali (G01478467)
+//•	Sheetal Sachidananda Harshini (G01464307)
+//•	Gauthami Shravya Veerababu (G01461233)
 
 pipeline {
     agent any
